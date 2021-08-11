@@ -1,0 +1,28 @@
+{
+  "name": "blog-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.13.2",
+    "moongoose": "0.0.5",
+    "multer": "^1.4.2",
+    "nodemon": "^2.0.12"
+  },
+  "engines": {
+    "node": "14.17.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://git.baikal.io/huongtran/blog-server.git"
+  },
+  "description": ""
+}
