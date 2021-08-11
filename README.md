@@ -9,9 +9,9 @@ HuongTran’s Org 20-07-2021
 
 **Blog-Server project**
 
-Cluster:
+Cluster: (please don't change anything on this cluster)
 - Username: BlogUser
-- Pass: bloguserpassword
+- Pass: bloguserpassword 
 - connection string: mongodb+srv://BlogUser:bloguserpassword@cluster0.k5igt.mongodb.net/AppDB?retryWrites=true&w=majority 
 
 (mongodb+srv://<username>:<password>@cluster0.k5igt.mongodb.net/<database_name>?retryWrites=true&w=majority)
