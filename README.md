@@ -30,5 +30,6 @@ REST API Postman
 Public collection URL: https://www.postman.com/bold-station-702107/workspace/blog-server/folder/8363052-94576988-f1ad-4a8c-942f-331e60abcf43?ctx=documentation
   
 ---------
-`Give me 1 STAR if you feel favorite it >.< Thank you bro!`
+  `Give me 1` 🌟 `if you feel favorite it >.< Thank you bro!`
+
 
